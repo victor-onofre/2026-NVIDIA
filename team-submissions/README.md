@@ -2,8 +2,8 @@
 
 **Early Submission (To obtain access to GPUs with Brev credits):**
 
-* [ ] **Tutorial Notebook:** Completed `labs_tutorial.ipynb`.
-* [ ] **PRD:** `PRD.md` defining your plan.
+* [ ] **Tutorial Notebook:** Completed `labs_tutorial.ipynb` including your "Self-Validation" section.
+* [ ] **PRD:** `PRD.md` defining your plan.  See [Milestone 1 in the challenge description](https://github.com/iQuHACK/2026-NVIDIA/blob/main/LABS-challenge.md) and the [PRD-template.md](PRD-template.md) file.
 
 **Final Submission (Deadline):**
 
